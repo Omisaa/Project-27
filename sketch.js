@@ -40,7 +40,7 @@ function setup() {
     bobObject5=new bob(width/2+40*2,height/4+50,40);
 
 
-	roofObject = new ground(width/2,height/4,width/7,20);
+	roofObject = new ground(width/3,height/4,width/7,20);
 	
     
 
